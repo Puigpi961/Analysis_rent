@@ -1,2 +1,12 @@
-apartments_for_rent_classified_100K.csv
-apartments_for_rent_classified_10K.csv
+# Datos locales: no subir a GitHub
+/data/apartments_for_rent_classified_100K.csv
+/data/apartments_for_rent_classified_10K.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credenciales
+.env
