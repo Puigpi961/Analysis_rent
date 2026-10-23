@@ -10,3 +10,4 @@ venv/
 
 # Credenciales
 .env
+.DS_Store
